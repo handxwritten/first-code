@@ -2,4 +2,6 @@ HELLO WORLD!
 
 Making changes to the .txt file in Lesson 2-2.
 
-adding more lines to test after the lesson, making sure I got this.git s
+adding more lines to test after the lesson, making sure I got this
+
+one more time. just to be sure
